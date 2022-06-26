@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid #eee;
+}
+
+.container img{
+    position: absolute;
+    transition: all 0.5s;
+}
